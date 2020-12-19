@@ -3,7 +3,7 @@ function preload(){
 }
 
 function setup() {
-  window.location('http://192.168.1.101:3000/piattaforma/benvenuto', "_self");
+  window.location('http://192.168.1.101:3000/piattaforma/benvenuto');
 }
 
 function draw() {
