@@ -3,7 +3,7 @@ function preload(){
 }
 
 function setup() {
-   window.open('http://192.168.1.103:3000/piattaforma/benvenuto', "_self");
+   window.open('https://webapp-dodicesimouomo-prova.herokuapp.com/piattaforma', "_self");
 
 }
 
