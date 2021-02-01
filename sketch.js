@@ -3,7 +3,7 @@ function preload(){
 }
 
 function setup() {
-   window.open('https://webapp-dodicesimouomo-prova.herokuapp.com/piattaforma', "_self");
+   window.open('https://webapp-dodicesimouomo-prova.herokuapp.com/piattaforma/benvenuto', "_self");
 
 }
 
